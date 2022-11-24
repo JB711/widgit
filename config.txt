@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is a config file.
+=======
+some config change....
+
+>>>>>>> bfbcfdedbb064ad341efa4f225ae42632c389b23
